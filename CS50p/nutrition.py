@@ -1,0 +1,41 @@
+choice= input("Item: ").lower()
+if choice=="apple":
+    print("Calories: 130")
+elif choice=="banana":
+    print("Calories: 110")
+elif choice=="avocado":
+    print("Calories: 50")
+elif choice=="cantalope":
+    print("Calories: 50")
+elif choice=="grapefruit":
+    print("Calories: 60")
+elif choice=="grapes":
+    print("Calories: 90")
+elif choice=="honeydew melon":
+    print("Calories: 50")
+elif choice=="kiwifruit":
+    print("Calories: 90")
+elif choice=="lemon":
+    print("Calories: 15")
+elif choice=="lime":
+    print("Calories: 20")
+elif choice=="nectarine":
+    print("Calories: 60")
+elif choice=="orange":
+    print("Calories: 80")
+elif choice=="peach":
+    print("Calories: 60")
+elif choice=="pear":
+    print("Calories: 100")
+elif choice=="pineapple":
+    print("Calories: 50")
+elif choice=="plums":
+    print("Calories: 70")
+elif choice=="strawberries":
+    print("Calories: 50")
+elif choice=="sweet cherries":
+    print("Calories: 100")
+elif choice=="tangerine":
+    print("Calories: 50")
+elif choice=="watermelon":
+    print("Calories: 80")
